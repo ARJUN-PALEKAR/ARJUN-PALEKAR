@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Arjun Palekar</h1>
+<!-- <h1 align="center">👋 Hey, I'm Arjun Palekar</h1>
 
 <h3 align="center">Computer Science Student | Web Dev & Data Analysis Enthusiast</h3>
 
@@ -42,7 +42,7 @@ class Developer:
 me = Developer()
 me.say_hi()
 
-```
+``` -->
 
 
 💻 Tech Stack
