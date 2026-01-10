@@ -1,4 +1,4 @@
-<!-- <h1 align="center">👋 Hey, I'm Arjun Palekar</h1>
+<h1 align="center">👋 Hey, I'm Arjun Palekar</h1>
 
 <h3 align="center">Computer Science Student | Web Dev & Data Analysis Enthusiast</h3>
 
@@ -42,7 +42,7 @@ class Developer:
 me = Developer()
 me.say_hi()
 
-``` -->
+``` 
 
 
 💻 Tech Stack
@@ -61,16 +61,6 @@ me.say_hi()
 ![](https://nirzak-streak-stats.vercel.app/?user=ARJUN-PALEKAR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-PALEKAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ARJUN-PALEKAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ARJUN-PALEKAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ARJUN-PALEKAR&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br>
 
