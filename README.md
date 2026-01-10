@@ -45,6 +45,15 @@ me.say_hi()
 ``` 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ARJUN-PALEKAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ARJUN-PALEKAR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-PALEKAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<br>
+
+
 💻 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 
@@ -54,15 +63,6 @@ me.say_hi()
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCloud" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </p>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ARJUN-PALEKAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ARJUN-PALEKAR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-PALEKAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=arjun-palekar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
