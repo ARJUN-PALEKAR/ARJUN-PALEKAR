@@ -53,11 +53,26 @@ me.say_hi()
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCloud" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </p>
 
+
+
 📊 GitHub Stats
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DARJUN-PALEKAR%26theme%3Dgotham%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" height="150" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DARJUN-PALEKAR%26theme%3Dgotham%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" height="150" alt="languages graph" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-palekar&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-palekar&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
+</div>
 
+<br>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DARJUN-PALEKAR%26theme%3Dgotham%26hide_border%3Dtrue" alt="streak stats" /> </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arjun-palekar&theme=gotham&hide_border=true" alt="streak stats" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=arjun-palekar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=arjun-palekar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div>
