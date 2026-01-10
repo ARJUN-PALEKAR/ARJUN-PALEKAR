@@ -1,3 +1,46 @@
+<h1 align="center">👋 Hey, I'm [Your Name]</h1>
+
+<h3 align="center">Data Scientist in the Making | Building Intelligence with Code</h3>
+
+<p align="center">
+  <samp>Turning Data into Decisions</samp><br>
+  <b>Building ML Solutions that Scale</b>
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS_HERE">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Mission Statement
+
+I'm on a mission to **transition into Data Science by [Year]**. With a foundation in [Your Previous Background/Skill], I bring a rare blend: technical execution meets business intuition. I don't just build models, I build solutions that drive real-world impact.
+
+```python
+class DataScientist:
+
+    def __init__(self):
+        self.name = "[Your Name]"
+        self.role = "Aspiring Data Scientist"
+        self.location = "[Your City, Country]"
+        self.current_focus = ["Machine Learning", "Deep Learning", "MLOps"]
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something meaningful together.")
+
+me = DataScientist()
+me.say_hi()
+
+
 # 💫 About Me:
 Second-year Computer Science Engineering student passionate about Web Development and Data Analysis.<br>Skilled in Next.js and learning Python for data driven solutions.<br>Eager to grow through real world projects!!
 
