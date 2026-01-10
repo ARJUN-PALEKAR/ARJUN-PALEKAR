@@ -44,6 +44,7 @@ me.say_hi()
 
 ```
 
+
 💻 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 
@@ -55,7 +56,8 @@ me.say_hi()
 
 
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjun-palekar&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
   
@@ -73,6 +75,3 @@ me.say_hi()
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=arjun-palekar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
-
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=arjun-palekar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </div>
