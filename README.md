@@ -56,19 +56,21 @@ me.say_hi()
 
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ARJUN-PALEKAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ARJUN-PALEKAR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-PALEKAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-palekar&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-palekar&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ARJUN-PALEKAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ARJUN-PALEKAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arjun-palekar&theme=gotham&hide_border=true" alt="streak stats" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=ARJUN-PALEKAR&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br>
 
