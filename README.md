@@ -33,7 +33,7 @@ class Developer:
     def __init__(self):
         self.name = "Arjun Palekar"
         self.role = "Student & Developer"
-        self.stack = ["Next.js", "React", "Python", "C/C++]
+        self.stack = ["Next.js", "React", "Python", "C/C++"]
         self.passion = "Eager to grow through real-world projects!"
 
     def say_hi(self):
