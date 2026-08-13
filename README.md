@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Arjun Palekar</h1>
 
-<h3 align="center">Computer Science Student | Web Dev & Data Analysis Enthusiast</h3>
+<h3 align="center">Computer Science Student | Machine Learning Developer & Data Analyst</h3>
 
 <p align="center">
   <samp>Building Intelligence with Code</samp><br>
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Second-year Computer Science Engineering student** at SRMIST. I have a strong foundation in **Next.js** for web development and am currently deep-diving into **Python** to build data-driven solutions.
+I am a **Third-year Computer Science Engineering student** at SRMIST. I have a strong foundation in **Next.js** for web development and am currently deep-diving into **Python** to build data-driven solutions.
 
 ```python
 class Developer:
