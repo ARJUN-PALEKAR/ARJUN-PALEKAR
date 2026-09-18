@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **Third-year Computer Science Engineering student** at SRMIST. I have a strong foundation in **Next.js** for web development and am currently deep-diving into **Python** to build data-driven solutions.
 
