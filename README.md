@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Arjun Palekar</h1>
+<h1 align="center">Hey, I'm Arjun Palekar</h1>
 
 <h3 align="center">Computer Science Student | Machine Learning Developer & Data Analyst</h3>
 
